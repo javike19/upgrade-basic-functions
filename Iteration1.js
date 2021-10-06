@@ -4,3 +4,10 @@ function sum(numberOne , numberTwo) {
   }
 
 sum(5, 4);
+
+/*if (numberOne > numberTwo){
+  result = numberOne
+} else{
+  result = numberTwo
+}
+return result*/

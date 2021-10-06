@@ -17,5 +17,15 @@ console.log(result);
 
 averageWord();
 
+/*function averageWord(param) {
+    let count = 0;
+    for (let i = 0; i < param.length; i++) {
+        if(typeof param[i] === "string") {
+            count += param[i].length
+        } elese{}
+    }
+    return count / param.length
+}*/
+
 
 
